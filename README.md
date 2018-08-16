@@ -14,7 +14,7 @@ Welcome to the new Web**Fundamentals**! An effort to showcase best practices and
 4. [Start Local Server](#start-local-server)
 5. [Update the code labs](#update-the-code-labs)
 6. [Start the development server](#start-the-development-server)
-7. [Test your changes before submitting a PR](test-your-changes-before-submitting-a-pr)
+7. [Test your changes before submitting a PR](test-your-changes-before-submitting-a-PR)
 
 ## About the repo
 
