@@ -1,7 +1,7 @@
 project_path: /web/fundamentals/_project.yaml
 book_path: /web/fundamentals/_book.yaml
 
-{# wf_updated_on: 2018-08-13 #}
+{# wf_updated_on: 2018-08-16 #}
 {# wf_published_on: 2017-06-28 #}
 {# wf_blink_components: Blink>Payments #}
 
@@ -448,7 +448,8 @@ the Payment Request API OR their own UI.
 * If all conditions are met the merchant serves up a
 confirmation page.
 
-You can learn more about this [technique here](/web/fundamentals/payments/deep-dive-into-payment-request#completing_the_transaction)
+You can learn more about this technique
+[here](/web/fundamentals/payments/deep-dive-into-payment-request#completing_the_transaction)
 
 <div>
   <figure>
@@ -520,10 +521,11 @@ Payment Request API is currently supported by;
 * Chrome 61 and above on Desktop & iOS
 * Edge 15 and above on Desktop
 
-You can track the latest status for all other browsers here
+You can track the latest status for all other browsers
 on [caniuse.com](https://caniuse.com/#search=payments).
 
 ## Stickersheet
 
-To create your own flows, you can download the Payment Request API sticker sheet from [our Github Repo](https://goo.gl/daxhRa).
+To create your own flows, you can download the Payment Request API 
+sticker sheet from [our Github Repo](https://goo.gl/daxhRa).
 
