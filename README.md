@@ -5,6 +5,19 @@
 Welcome to the new Web**Fundamentals**! An effort to showcase best practices and tools for modern Web Development.
 
 
+## TABLE OF CONTENTS
+
+0. [About the repo](#about-the-repo)
+1. [Cloning the repo](#cloning-the-repo)
+2. [Getting set up](#getting-set-up)   
+3. [Build the auto-generated files](#build-the-auto-generated-files)
+4. [Start Local Server](#start-local-server)
+5. [Update the code labs](#update-the-code-labs)
+6. [Start the development server](#start-the-development-server)
+7. [Test your changes before submitting a PR](test-your-changes-before-submitting-a-PR)
+
+## About the repo
+
 ### What's changed?
 
 * We're now using the [DevSite](https://developers.google.com/) infrastructure
